@@ -1,0 +1,18 @@
+Suggestions:
+- Write in the website name and a short description of what the site does
+- Indicate that the first dropdown menu is for selecting a billionaire
+- Have the description of the billionaire next to their image rather than 
+below. Also, indicate the cost of items selected and the remaining amount 
+of money in this div. Increase text size.
+- The 10 million dollar mansion is a bit redundant. Find an example of a really
+expensive piece of real estate to use instead
+- (Not sure if this is possible) but I would try to include commas to make the 
+big numbers easier to read
+- Maybe include how much money the billionaire makes per minute, then for a 
+selected item, you can calculate how long it would take to save up for this 
+item (e.g. If Jeff Bezos wanted to save up to buy a Boeing 737, it would take
+X hours)
+- Maybe include some div that displays the number of things the user has 
+selected to buy and the total (essntially a reciept that updates as the user
+continues to add/subtract items)
+
